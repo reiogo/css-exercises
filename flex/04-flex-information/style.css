@@ -9,20 +9,20 @@ img {
 }
 
 .title {
-    justify-content: center;
+  justify-content: center;
   font-size: 36px;
   font-weight: 900;
   margin-bottom: 32px;
 }
 
 .plants {
-    display: flex;
-    justify-content: center;
-    gap: 52px;
+  display: flex;
+  justify-content: center;
+  gap: 52px;
 }
 
 .item {
-    max-width: 200px;
+  max-width: 200px;
 }
 
 
